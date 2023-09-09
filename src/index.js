@@ -1,2 +1,2 @@
 console.log("indexjs");
-console.log("version4");
+console.log("version2");
